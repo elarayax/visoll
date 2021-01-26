@@ -4037,6 +4037,7 @@ input[type=button].btn-block {
 .navbar-expand-sm > .container-md,
 .navbar-expand-sm > .container-lg,
 .navbar-expand-sm > .container-xl {
+
     padding-right: 0;
     padding-left: 0;
   }
@@ -10119,7 +10120,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../images/fondo.jpg");
+  background-image: url("../images/gpsPrincipal.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10156,6 +10157,7 @@ header.masthead .masthead-heading {
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
+    
   }
 }
 #portfolio .portfolio-item {
