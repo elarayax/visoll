@@ -7,7 +7,7 @@
         </div>
         <form id="contactForm" method="post" novalidate="novalidate">
             <div class="row align-items-stretch align-self-center mb-5">
-                <div class="col-md-8 align-self-center">
+                <div class="col">
                     <div class="form-group">
                         <input autocomplete="off" class="form-control" id="name" name="nombre" type="text" placeholder="Nombre *" required="required" data-validation-required-message="Por favor ingrese su Nombre." />
                         <p class="help-block text-danger"></p>
@@ -17,7 +17,7 @@
                         <p class="help-block text-danger"></p>
                     </div>
                 </div>
-            </div>
+            </div><br><br>
             <div class="text-center">
                 <div id="success"></div>
                 <input type="submit" class="btn btn-primary btn-xl text-uppercase" name="btnMensaje"  value="Enviar Mensaje">

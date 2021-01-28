@@ -2,6 +2,7 @@
 include("header.html");
 include("servicios.html");
 include("portafolio.html");
+include("plataforma.html");
 #include("acerca.html");
 #include("equipo.html");
 #include("clientes.html");
